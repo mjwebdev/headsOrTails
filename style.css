@@ -1,0 +1,10 @@
+h1 {
+	text-transform: uppercase;
+	text-align: center;
+	color: lightblue;
+}
+p {
+	margin-top: 20px;
+	letter-spacing: 1px;
+	text-align: center;
+}
